@@ -1,0 +1,86 @@
+{
+    "Home": {
+        "title": "Always Choose Good",
+        "desc1": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, tempora omnis nesciunt non eius quisquam sequi! Praesentium ea quasi maxime reprehenderit nihil officia vel quas quia dolor odio? Debitis, asperiores.",
+        "btn": "Our Menu"
+    },
+    "About": {
+        "til": "A",
+        "title": "bout Us",
+        "desc": "Alias dicta, qui veritatis reprehenderit vitae officiis tempore corrupti, tempora consequuntur pariatur est nemo natus facere. Eaque, accusantium eius repellendus, reprehenderit itaque iste recusandae accusamus facere hic quos at ut sapiente maxime aliquid. Excepturi dolorem cum laborum facere voluptates iure incidunt, odit nisi. Eius.",
+        "image": "images/img1.jpg"
+    },
+    "Service": {
+        "ttl": "Our",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, sequi.",
+        "serviceBox": [
+            {
+                "ttl": "Special Salads",
+                "simg": "images/menu1.jpg"
+            },
+            {
+                "ttl": "Special Salads",
+                "simg": "images/menu2.jpg"
+            },
+            {
+                "ttl": "Special Salads",
+                "simg": "images/menu3.jpg"
+            },
+            {
+                "ttl": "Special Salads",
+                "simg": "images/menu4.jpg"
+            },
+            {
+                "ttl": "Special Salads",
+                "simg": "images/menu5.jpg"
+            },
+            {
+                "ttl": "Special Salads",
+                "simg": "images/menu6.jpg"
+            }
+        ]
+    },
+    "Testimonials": {
+        "ttl": "They",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, sequi.",
+        "TestimoBox": [
+            {
+                "ttl": "Someone Famous",
+                "simg": "images/testi1.jpg",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis accusantium officia est nobis quisquam asperiores magnam incidunt voluptatum, repellat dolorem delectus illum temporibus repellendus quia porro doloribus quidem hic. Nobis cum earum distinctio quo nihil id suscipit dolores, eaque officiis."
+            },
+            {
+                "ttl": "Someone Famous",
+                "simg": "images/testi2.jpg",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis accusantium officia est nobis quisquam asperiores magnam incidunt voluptatum, repellat dolorem delectus illum temporibus repellendus quia porro doloribus quidem hic. Nobis cum earum distinctio quo nihil id suscipit dolores, eaque officiis."
+            },
+            {
+                "ttl": "Someone Famous",
+                "simg": "images/testi3.jpg",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis accusantium officia est nobis quisquam asperiores magnam incidunt voluptatum, repellat dolorem delectus illum temporibus repellendus quia porro doloribus quidem hic. Nobis cum earum distinctio quo nihil id suscipit dolores, eaque officiis."
+            }
+        ]
+    },
+    "Expert": {
+        "ttl": "Our Kitchen ",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, sequi.",
+        "ExpertBox": [
+            {
+                "ttl": "Someone Famous",
+                "simg": "images/expert1.jpg"
+            },
+            {
+                "ttl": "Someone Famous",
+                "simg": "images/expert2.jpg"
+            },
+            {
+                "ttl": "Someone Famous",
+                "simg": "images/expert3.jpg"
+            },
+            {
+                "ttl": "Someone Famous",
+                "simg": "images/expert4.jpg"
+            }
+        ]
+    }
+}
